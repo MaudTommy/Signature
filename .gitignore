@@ -1,0 +1,14 @@
+# Node / Next
+node_modules/
+.next/
+out/
+
+# Hardhat
+contracts/artifacts/
+contracts/cache/
+contracts/deployments/
+contracts/types/
+
+# Logs and misc
+*.log
+.DS_Store
